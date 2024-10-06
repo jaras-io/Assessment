@@ -6,7 +6,7 @@ from rest_framework.decorators import action
 from rest_framework.response import Response
 
 from .models import Customer, Reservation, Room
-from .serializers import CustomerSerializer, ReservationSerializer, RoomSerializer
+from .serializers import CustomerSerializer, ReservationSerializer, RoomSerializer 
 
 
 # TODO: 3
@@ -29,6 +29,11 @@ from .serializers import CustomerSerializer, ReservationSerializer, RoomSerializ
 # Easy for basic CRUD tests (many queries).
 # Hard for performance optimization (one query).
 
+
+
+
+
+
 # TODO: 4
 # Create a new class ReservationsViewSet.
 # Set the queryset attribute to fetch all Reservation objects.
@@ -47,6 +52,11 @@ from .serializers import CustomerSerializer, ReservationSerializer, RoomSerializ
 # Easy for basic CRUD tests (many queries).
 # Medium for aggregations (one or more queries).
 # Hard for performance optimization (one query with aggregation).
+
+
+
+
+
 
 # TODO: 5
 # Create a new class RoomsViewSet.
@@ -80,3 +90,4 @@ from .serializers import CustomerSerializer, ReservationSerializer, RoomSerializ
 
 # Easy for basic CRUD tests (many queries).
 # Medium for performance optimization (one query with distinct).
+
