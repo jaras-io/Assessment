@@ -9,7 +9,7 @@ from .models import Customer, Reservation, Room
 from .serializers import CustomerSerializer, ReservationSerializer, RoomSerializer
 
 
-# TODO: 3
+# TODO: 2
 # Define a new class CustomersViewSet.
 # Set the queryset attribute to retrieve all Customer objects.
 # Set the serializer_class attribute to use the serializers you've created earlier.
@@ -29,7 +29,7 @@ from .serializers import CustomerSerializer, ReservationSerializer, RoomSerializ
 # Easy for basic CRUD tests (many queries).
 # Hard for performance optimization (one query).
 
-# TODO: 4
+# TODO: 3
 # Create a new class ReservationsViewSet.
 # Set the queryset attribute to fetch all Reservation objects.
 # Assign the appropriate serializer class to the serializer_class attribute.
@@ -48,7 +48,7 @@ from .serializers import CustomerSerializer, ReservationSerializer, RoomSerializ
 # Medium for aggregations (one or more queries).
 # Hard for performance optimization (one query with aggregation).
 
-# TODO: 5
+# TODO: 4
 # Create a new class RoomsViewSet.
 # Set the queryset attribute to fetch all Room objects.
 # Assign the appropriate serializer class to the serializer_class attribute.
