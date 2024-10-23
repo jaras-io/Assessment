@@ -56,13 +56,9 @@ $PROJECT_ROOT
 
 ### 🏆 Getting Started:
 
-- Clone Repo
-
-```bash
-git clone https://github.com/jaras-io/Assessment.git
-```
-
-- Using Docker
+- Fork Repo
+- Clone Your Forked Repo Locally
+- Run Project Using Docker
 
 ```docker
 docker-compose up --build
