@@ -59,7 +59,7 @@ $PROJECT_ROOT
 - Clone Repo
 
 ```bash
-git clone https://git.ajjir.co/ajjir/getting-started.git
+git clone https://github.com/jaras-io/Assessment.git
 ```
 
 - Using Docker
