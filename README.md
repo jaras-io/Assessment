@@ -25,7 +25,7 @@ Remember, we're all here to support you every step of the way. Don’t hesitate 
 
 ### Assessment Guidelines
 
-The assessment is divided into backend and frontend tasks. While completing both is beneficial, it's not mandatory. We use a point system to evaluate the frontend, allowing you to earn points for each completed task. If you prefer to focus on the frontend, you can simulate backend integration using state management tools like [Zustand](https://zustand-demo.pmnd.rs/) or API mocking libraries such as [MSW.js](https://mswjs.io/).
+The assessment is divided into backend and frontend tasks. While completing both is beneficial, it's not mandatory. We use a point system to evaluate the final result, allowing you to earn points for each completed task. If you prefer to focus on the frontend, you can simulate backend integration using state management tools like [Zustand](https://zustand-demo.pmnd.rs/) or API mocking libraries such as [MSW.js](https://mswjs.io/).
 
 Focus on showcasing your skills, whether it's through API integration, frontend architecture, or using alternative approaches to simulate backend interactions.
 
